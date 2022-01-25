@@ -4,8 +4,8 @@
 
 [Live Link](https://jdegand.github.io/tenzies)
 
-![][tenzies-homepage.png]
-![][tenzies-winner.png]
+![](tenzies-homepage.png)
+![](tenzies-winner.png)
 
 ## Takeaways
 
